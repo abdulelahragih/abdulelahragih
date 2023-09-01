@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdulelah</h1>
-<h3 align="center">A passionate Full Stack Developer from Yemen</h3>
+<h3 align="center">A passionate Full Stack Developer from Earth</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulelahragih&label=Profile%20views&color=0e75b6&style=flat" alt="abdulelahragih" /> </p>
 
-- 🔭 I’m currently working on **Two Android Apps and backend based on Slim and FastAPI**
+- 🔭 I’m currently working on **Two Android Apps and a backend based on Slim and FastAPI**
 
 - 🌱 I’m currently learning **Android Jetpack Compose, Rust, and Unity**
 
